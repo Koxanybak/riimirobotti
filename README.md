@@ -1,3 +1,1 @@
-
-
-Tässä projektissa testailen neuroverkon rakentamista.
+In this project I test building a neural network.
